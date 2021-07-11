@@ -17,3 +17,11 @@ Not yet.
 
 ## Experience 
 Not yet.
+
+## Education
+Polotsk State University, Oil and Gas Processing Technologys (2007-2012)
+
+Polotsk State University, Organization (Enterprise) Economy (2010-2012)
+
+## Languages
+English - A2
