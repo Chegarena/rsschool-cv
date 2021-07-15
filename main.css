@@ -59,11 +59,13 @@ main {
         background-color: #fff;
         float: left;
         width: 400px;
+        margin-bottom: 20px;
     }
     .section-right {
         background-color: #fff;
         float: right;
         width: 400px;
+        margin-bottom: 20px;
     }
     h3 {
         margin-left: 5px;
@@ -75,10 +77,55 @@ main {
         margin-left: 10%;
     }
     footer {
+     
         margin: auto;
         width: 900px;
-        height: 150px;
-        
+        height: 100px;
         color: silver;
         background-color: slategray;   
     }
+    .RSS {
+        margin-left: 120px;
+        margin-top: -100px;
+    }
+    .VK {
+        margin-left: 250px;
+        margin-top: -80px;
+    }
+    .facebook {
+        margin-left: 340px;
+        margin-top: -60px;
+    }
+    hr {
+        border-top: 3px solid;
+        width: 80%;
+        color: rgb(118, 243, 243);
+    }
+    .Summary {
+        margin-left: 40px;
+        line-height: 150%;
+    }
+    .Skills {
+        margin-left: 40px;
+        line-height: 150%;
+    }
+    .Education {
+        margin-left: 40px;
+        line-height: 150%;
+    }
+    .Expirience {
+        margin-left: 40px;
+        line-height: 150%;
+    }
+    .examples {
+        margin-left: 40px;
+        line-height: 150%;
+    }
+    .lang {
+        margin-left: 40px;
+        line-height: 150%;
+    }
+  .date {
+      margin-top: -5px;
+      margin-left: 780px;
+  }
