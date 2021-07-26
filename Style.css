@@ -1,0 +1,131 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+main {
+    box-shadow: 30px 0px 40px rgb (199, 199, 199), -30px 0px 40px rgb(95, 94, 94);
+    margin: auto;
+    width: 900px;
+    }
+    .down {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 25px;
+        background-color: fff;
+        width: 100%;
+    }
+    header {
+        height: 200px;
+        padding-top: 10px;
+        color: silver;
+        background-color: slategray;
+    }
+    .foto {
+        margin-left: 2%;
+        border-radius: 50%;
+        width: 190px;
+        height: 190px;
+       overflow: hidden;
+    }
+    .name {
+        margin-top: -20%;
+        margin-left: 25%;
+    }
+    h2 {
+        color: rgb(118, 243, 243);
+        font-weight: bold;
+        font-size: 20px;
+    }
+    .developer {
+        color: rgb(184, 144, 72);
+        font-weight: bold;
+        font-size: 15px;
+        margin-left: 3%;
+    }
+    .right {
+        margin-left: 0;
+        padding: 0;
+        margin-top: -10%;
+    }
+    .right p{
+        margin-left: 600px;
+    }
+    .contact {
+        margin-left: 66%;
+        width: 20px;
+        height: 20px;
+        color: rgb(129, 238, 238);
+    }
+    .section-left {
+        background-color: #fff;
+        float: left;
+        width: 400px;
+        margin-bottom: 20px;
+    }
+    .section-right {
+        background-color: #fff;
+        float: right;
+        width: 400px;
+        margin-bottom: 20px;
+    }
+    h3 {
+        margin-left: 5px;
+        color: rgb(118, 243, 243);
+        font-weight: bold;
+        font-size: 15px;
+    }
+    .div {
+        margin-left: 10%;
+    }
+    footer {
+     
+        margin: auto;
+        width: 900px;
+        height: 100px;
+        color: silver;
+        background-color: slategray;   
+    }
+    .RSS {
+        margin-left: 120px;
+        margin-top: -100px;
+    }
+    .VK {
+        margin-left: 250px;
+        margin-top: -80px;
+    }
+    .facebook {
+        margin-left: 340px;
+        margin-top: -60px;
+    }
+    hr {
+        border-top: 3px solid;
+        width: 80%;
+        color: rgb(118, 243, 243);
+    }
+    .Summary {
+        margin-left: 40px;
+        line-height: 150%;
+    }
+    .Skills {
+        margin-left: 40px;
+        line-height: 150%;
+    }
+    .Education {
+        margin-left: 40px;
+        line-height: 150%;
+    }
+    .Expirience {
+        margin-left: 40px;
+        line-height: 150%;
+    }
+    .examples {
+        margin-left: 40px;
+        line-height: 150%;
+    }
+    .lang {
+        margin-left: 40px;
+        line-height: 150%;
+    }
+  .date {
+      margin-top: -5px;
+      margin-left: 780px;
+  }
